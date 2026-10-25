@@ -1,0 +1,2 @@
+- Pinecone vectors carry an `indexed_at` metadata stamp; `cleanupNamespaces` in src/lib/ingest.server.ts drops namespaces older than 24h or over the video cap, so the free tier stays uncluttered (demo video IDs are exempt).
+- The app expects the environment values `OPENAI_API_KEY`, `PINECONE_API_KEY`, and `PINECONE_INDEX_NAME` to be set before running or deploying.
