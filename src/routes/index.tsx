@@ -184,7 +184,11 @@ function Index() {
               Semantic YouTube Q&amp;A
             </span>
           </div>
-          <a href="https://github.com" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/pranavanne/VidQuery"
+            target="_blank"
+            rel="noreferrer"
+          >
             <Badge
               variant="outline"
               className="gap-1.5 px-3 py-1 font-mono text-xs hover:bg-accent"
