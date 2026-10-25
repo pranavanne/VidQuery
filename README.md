@@ -1,6 +1,6 @@
 # VidQuery
 
-Semantic YouTube Q&A for asking questions about video content and jumping straight to the relevant timestamp.
+VidQuery helps users ask natural-language questions about YouTube videos and get precise, timestamped answers grounded in the video transcript. It indexes transcripts with Pinecone and uses OpenAI embeddings and chat completions to surface the most relevant moments instantly.
 
 ## Features
 
