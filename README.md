@@ -37,5 +37,4 @@ PINECONE_INDEX_NAME=your_pinecone_index
 ```
 
 ## Deployment
-
-This project is ready for hosting on Vercel, with the required environment variables configured in the Vercel dashboard.
+Add Link
